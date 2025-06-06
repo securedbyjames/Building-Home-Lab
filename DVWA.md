@@ -6,13 +6,13 @@ I set up DVWA on my Ubuntu server which will be used for all vulnerability testi
 
 <p align="center">
 Successful installation: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/EU422cw" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 <p align="center">
 Accessing DVWA on Kali Linux VM: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/8SVltMh" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
