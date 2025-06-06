@@ -2,7 +2,7 @@
 
 <h2>My Hardware</h2>
 
-- <b>Apple M4 Macbook Pro (</b>
+- <b>Apple M4 Macbook Pro</b>
 
 
 <h2>Mini Projects</h2>
