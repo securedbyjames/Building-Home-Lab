@@ -7,13 +7,11 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <br />
 
 <h2>Mini Projects</h2>
+
 - <b>Isolating virtual machines for security</b>
 
 
 <h2>Components of Home Lab</h2>
-
-- <b>Tryhackme</b>
-  - SOC Level 1 Learning Path in progress
 
 - <b>Virtualization Software</b>
   - VMware Fusion
