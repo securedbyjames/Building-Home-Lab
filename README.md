@@ -8,7 +8,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <h2>Mini Projects</h2>
 
-- <b>Isolating virtual machines for security</b>
+- <b>Creating an isolated network for testing</b>
 
 
 <h2>Components of Home Lab</h2>
