@@ -6,7 +6,7 @@ I set up DVWA on my Ubuntu server which will be used for all vulnerability testi
 
 <p align="center">
 Successful installation: <br/>
-<img src="https://imgur.com/EU422cw" height="80%" width="80%">
+<img src="https://imgur.com/EU422cw alt="Successful Install" height="80%" width="80%">
 <br />
 <br />
 
