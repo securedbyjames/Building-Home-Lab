@@ -7,10 +7,17 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Components of Home Lab</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Virtualization Software</b>
+
+ - VMWare Fusion for Mac
+  
+- <b>Virtual Machines</b>
+
+ - Windows 11
+
+ - Kali Linux
 
 <h2>Environments Used </h2>
 
