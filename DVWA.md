@@ -17,3 +17,5 @@ Accessing DVWA on Kali Linux VM: <br/>
 <br />
 
 <h2>Low Skill Level</h2>
+
+i.imgur.com/62TgaWL.png
