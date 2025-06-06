@@ -8,5 +8,12 @@ I set up DVWA on my Ubuntu server which will be used for all vulnerability testi
 Successful installation: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
+
+<p align="center">
+Accessing DVWA on Kali Linux VM: <br/>
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 <h2>Low Skill Level</h2>
