@@ -6,13 +6,13 @@ I set up DVWA on my Ubuntu server which will be used for all vulnerability testi
 
 <p align="center">
 Successful installation: <br/>
-<img src="https://i.imgur.com/8SVltMh.png" height="80%" width="80%">
+<img src="https://i.imgur.com/EU422cw.png" height="80%" width="80%">
 <br />
 <br />
 
 <p align="center">
 Accessing DVWA on Kali Linux VM: <br/>
-<img src="i.imgur.com/8SVltMh" height="80%" width="80%">
+<img src="https://i.imgur.com/8SVltMh.png" height="80%" width="80%">
 <br />
 <br />
 
