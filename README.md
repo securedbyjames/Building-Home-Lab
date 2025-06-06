@@ -8,6 +8,7 @@
 <h2>Mini Projects</h2>
 
 - <b>Creating an isolated network for testing</b>
+- <b>DVWA Vulnerability Testing</b>
 
 
 <h2>Components of Home Lab</h2>
