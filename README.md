@@ -6,18 +6,24 @@
 Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
 <br />
 
+<h2>Mini Projects</h2>
+- <b>Isolating virtual machines for security</b>
+
 
 <h2>Components of Home Lab</h2>
 
-- <b>Virtualization Software</b>
+- <b>Tryhackme</b>
+  - SOC Level 1 Learning Path in progress
 
- - VMWare Fusion for Mac
+- <b>Virtualization Software</b>
+  - VMware Fusion
   
 - <b>Virtual Machines</b>
-
- - Windows 11
-
- - Kali Linux
+  - Windows 11
+  - Kali Linux (Debian)
+ 
+- <b>Security Tools</b>
+  - Wazuh
 
 <h2>Environments Used </h2>
 
