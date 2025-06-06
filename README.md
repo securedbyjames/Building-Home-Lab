@@ -1,5 +1,9 @@
 <h1>Building Home Lab</h1>
 
+<h2>Description</h2>
+
+The purpose of my Home Lab is to strengthen my defensive and offesive skills using Kali Linux alongside vulnerable Ubuntu virtual machines. Initially, I plan to utilize my Ubuntu Server VM to continue building my command line skills where I will install and configure various vulnerable web apps such as DVWA. I will then use Kali Linux to access those vulnerable web apps in addition to using SIEM tools like Wazuh, and network analysis tools like Wireshark.
+
 <h2>My Hardware</h2>
 
 - <b>Apple M4 Macbook Pro</b>
@@ -7,7 +11,7 @@
 
 <h2>Mini Projects</h2>
 
-- <b>Creating an isolated network for testing</b>
+- <b>Creating Isolated Network</b>
 - <b>DVWA Vulnerability Testing</b>
 
 
