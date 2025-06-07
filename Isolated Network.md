@@ -36,3 +36,7 @@ Pinging Static IP of Ubuntu Server VM<br/>
 <br />
 
 Now the fun begins! I installed the LAMP stack on the Ubuntu server to ensure I could run the vulnerable web apps and databases.
+
+<h2>Learnings</h2>
+
+I learned the importance of using NAT when needing to access the internet for an extra level of isolation versus using a Bridged connected. NAT provides a firewall like features where my Macbook acts as that firewall as traffic is routed through it opposed to a bridged connection where my VM would connect direclty to my Macbook and be reachable to other devices connected to my Macbook. Ultimately, using a private network has showed that it is of course the most secure as it is fully detached with no internet access and cannot connect with other resources on my Macbook. I also understand that there are advanced ways to isolate my machine and VMs which I plan to dig in to as I continue progressing.
