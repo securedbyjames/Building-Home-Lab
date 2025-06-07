@@ -11,8 +11,8 @@ The purpose of my Home Lab is to strengthen my defensive and offesive skills usi
 
 <h2>Mini Projects</h2>
 
-- <b>Creating Isolated Network</b>
-- <b>DVWA Vulnerability Testing</b>
+- <a href="https://github.com/securedbyjames/Building-Home-Lab/blob/main/Isolated%20Network.md"><b>Creating Isolated Network</b></a>
+- <a href="https://github.com/securedbyjames/Building-Home-Lab/blob/main/DVWA.md"><b>DVWA Vulnerability Testing</b></a>
 
 
 <h2>Components of Home Lab</h2>
