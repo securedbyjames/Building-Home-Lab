@@ -21,9 +21,10 @@ The purpose of my Home Lab is to strengthen my defensive and offesive skills usi
   - VMware Fusion
   
 - <b>Virtual Machines</b>
-  - Windows 11
-  - Kali Linux (attack system)
-  - Ubuntu Server (vulnerable for testing)
+  - Windows 11 (Vulnerable)
+  - Kali Linux (Attack System)
+  - Ubuntu Server (Vulnerable)
+  - Ubuntu (SIEM)
  
 - <b>Security Tools</b>
   - Wazuh
