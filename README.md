@@ -12,7 +12,7 @@ The purpose of my Home Lab is to strengthen my defensive and offesive skills usi
 <h2>Mini Projects</h2>
 
 - <a href="https://github.com/securedbyjames/Building-Home-Lab/blob/main/Isolated%20Network.md">Creating Isolated Network</a>
-- Setting up Sysmon and Splunk
+- <a href="https://github.com/securedbyjames/Building-Home-Lab/blob/main/Sysmon-Splunk%20Setup.md">Setting up Sysmon and Splunk</a>
 
 
 <h2>Components of Home Lab</h2>
