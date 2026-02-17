@@ -8,9 +8,9 @@ The purpose of my Home Lab is to strengthen my defensive and offesive skills by 
 
 - OptiPlex 7090 Desktop
 
+<!--
 <h2>Mini Projects</h2>
-
-- <a href="https://github.com/securedbyjames/Building-Home-Lab/blob/main/Sysmon-Splunk%20Setup.md">Setting up Sysmon and Splunk</a>
+-->
 
 
 <h2>Components of Home Lab</h2>
@@ -26,7 +26,7 @@ The purpose of my Home Lab is to strengthen my defensive and offesive skills by 
  
 - <b>Security Tools</b>
   - pfSense Firewall
-  - SIEM (coming soon
+  - SIEM (coming soon)
 
 <!--
 <h2>Program walk-through:</h2>
