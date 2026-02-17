@@ -12,7 +12,7 @@ The purpose of my home lab is to develop and strengthen both defensive and offen
 
 <h2>Network Topology</h2>
 <p align="left">
-<img src="https://i.imgur.com/xDYR7ru.png" height="50%" width="50%"/>
+<img src="https://i.imgur.com/yAIQni0.png" height="50%" width="50%"/>
 
 
 <h2>Core Components</h2>
