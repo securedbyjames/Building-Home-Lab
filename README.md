@@ -2,12 +2,11 @@
 
 <h2>Description</h2>
 
-The purpose of my Home Lab is to strengthen my defensive and offesive skills using Kali Linux alongside vulnerable Ubuntu virtual machines. Initially, I plan to utilize my Ubuntu Server VM to continue building my command line skills where I will install and configure various vulnerable web apps such as DVWA. I will then use Kali Linux to access those vulnerable web apps in addition to using SIEM tools like Wazuh, and network analysis tools like Wireshark.
+The purpose of my Home Lab is to strengthen my defensive and offesive skills by creating a isolated environment where I can attack my victim PC (Windows 11) using my Kali Linux virutal machine, while creating ACLs, viewing logs and more regarding everything happening on the lab through the pfsense firewall.
 
 <h2>My Hardware</h2>
 
-- Apple M4 Macbook Pro
-- HP Intel Core i5 Laptop (Windows 10)
+- OptiPlex 7090 Desktop
 
 <h2>Mini Projects</h2>
 
@@ -17,16 +16,17 @@ The purpose of my Home Lab is to strengthen my defensive and offesive skills usi
 <h2>Components of Home Lab</h2>
 
 - <b>Virtualization Software</b>
-  - VMware Fusion
+  - Hyper-V Manager
   
 - <b>Virtual Machines (Macbook Pro)</b>
-  - Windows 11 (Vulnerable)
-  - Kali Linux (Attack System)
-  - Ubuntu Server (Vulnerable)
-  - Ubuntu (SIEM)
+  - Windows Server 2025 (Datacenter Edition)
+  - pfSense Firewall
+  - Windows 11 
+  - Kali Linux
  
 - <b>Security Tools</b>
-  - Splunk (HP Laptop)
+  - pfSense Firewall
+  - SIEM (coming soon
 
 <!--
 <h2>Program walk-through:</h2>
