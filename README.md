@@ -30,7 +30,7 @@ The purpose of my home lab is to develop and strengthen both defensive and offen
  
 <h2>Documentation</h2>
 
-- <a href=""><b>Network Architecture</b></a>
+- <a href="https://github.com/securedbyjames/Building-Home-Lab/blob/main/network_architecture.md"><b>Network Architecture</b></a>
   
 
 <!--
