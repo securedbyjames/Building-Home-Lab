@@ -13,7 +13,7 @@ The purpose of my home lab is to develop and strengthen both defensive and offen
 -->
 
 
-<h2>Components of Home Lab</h2>
+<h2>Core Components</h2>
 
 - <b>Virtualization Software</b>
   - Hyper-V Manager
@@ -27,6 +27,11 @@ The purpose of my home lab is to develop and strengthen both defensive and offen
 - <b>Security Tools</b>
   - pfSense Firewall
   - SIEM (coming soon)
+ 
+<h2>Documentation</h2>
+
+- <a href=""><b>Network Architecture</b></a>
+  
 
 <!--
 <h2>Program walk-through:</h2>
