@@ -8,9 +8,11 @@ The purpose of my home lab is to develop and strengthen both defensive and offen
 
 - OptiPlex 7090 Desktop
 
-<!--
-<h2>Mini Projects</h2>
--->
+<!-- <h2>Mini Projects</h2> -->
+
+<h2>Network Topology</h2>
+<p align="left">
+<img src="https://i.imgur.com/xDYR7ru.png" height="50%" width="50%"/>
 
 
 <h2>Core Components</h2>
@@ -27,6 +29,13 @@ The purpose of my home lab is to develop and strengthen both defensive and offen
 - <b>Security Tools</b>
   - pfSense Firewall
   - SIEM (coming soon)
+ 
+<h2>Key Skills Demonstrated</h2>
+  - Firewall rules and ACL enforcement
+  - DNS & DHCP infrastructure
+  - Traffic inspection and log analysis
+  - Offensive testing with Kali Linux
+  - Network segmentation & isolation
  
 <h2>Documentation</h2>
 
