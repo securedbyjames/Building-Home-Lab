@@ -1,4 +1,4 @@
-<h1>Building Virtual Home Lab</h1>
+<h1>Virtual Home Lab</h1>
 
 <h2>Description</h2>
 
