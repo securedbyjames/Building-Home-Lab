@@ -31,6 +31,7 @@ The purpose of my home lab is to develop and strengthen both defensive and offen
   - SIEM (coming soon)
  
 <h2>Key Skills Demonstrated</h2>
+
   - Firewall rules and ACL enforcement
   - DNS & DHCP infrastructure
   - Traffic inspection and log analysis
@@ -40,18 +41,4 @@ The purpose of my home lab is to develop and strengthen both defensive and offen
 <h2>Documentation</h2>
 
 - <a href="https://github.com/securedbyjames/Building-Home-Lab/blob/main/network_architecture.md"><b>Network Architecture</b></a>
-  
 
-<!--
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
--->
