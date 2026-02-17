@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-The purpose of my Home Lab is to strengthen my defensive and offesive skills by creating a isolated environment where I can attack my victim PC (Windows 11) using my Kali Linux virutal machine, while creating ACLs, viewing logs and more regarding everything happening on the lab through the pfsense firewall.
+The purpose of my home lab is to develop and strengthen both defensive and offensive cybersecurity skills by maintaining a fully isolated network environment. Within this lab, I simulate real-world attack scenarios by targeting a Windows 11 endpoint from a Kali Linux attacker machine, while enforcing access control policies, analyzing traffic, and monitoring security events through a pfSense firewall. This environment allows me to practice intrusion detection, firewall rule creation, log analysis, and incident response without exposing my host system or external networks.
 
 <h2>My Hardware</h2>
 
