@@ -1,28 +1,45 @@
 <h1>Network Architecture</h1>
 
-<h2>Logical Topology</h2>
+| VLAN ID | Network Name     | Subnet          | Gateway        | Purpose                |
+| ------- | ---------------- | --------------- | -------------- | ---------------------- |
+| N/A     | WAN              | DHCP            | ISP / Host NAT | External connectivity  |
+| 1       | Management / LAN | 192.168.1.0/24  | 192.168.1.1    | Infrastructure systems |
+| 10      | User Network     | 192.168.10.0/24 | 192.168.10.1   | End-user machines      |
+| 20      | Attack Network   | 192.168.20.0/24 | 192.168.20.1   | Offensive testing      |
+| 30      | DMZ              | 192.168.30.0/24 | 192.168.30.1   | Public-facing services |
 
-<h2>IP Addressing</h2>
+<h2>Firewall (pfSense)</h2>
 
-<b>Overview</b>
-- LAN subnet: 192.168.1.0/24
-- pfSense LAN & Default Gateway: 192.168.1.1
-- Windows Server: 192.168.1.2
-- Windows 11: DHCP
-- Kali Linux: DHCP
+| Interface | Type                | IP Addressing  | Description               |
+| --------- | ------------------- | -------------- | ------------------------- |
+| WAN       | Virtual NIC         | DHCP           | ISP facing interface      |
+| LAN       | Virtual NIC (Trunk) | 192.168.1.1/24 | Internal VLAN trunk       |
 
-<b>VLANs</b>
-- VLAN 10 (Users)
-  - Subnet: 192.168.10.0
-  - Default Gateway: 192.168.10.1
-- VLAN 20 (Kali)
-  - Subnet: 192.168.20.0
-  - Default Gateway: 192.168.20.1
-- VLAN 30 (DMZ)
-  - Subnet: 192.168.30.0
-  - Default Gateway: 192.168.30.1
-  
-<b>DHCP</b>
-  - Excluded: 192.168.1.1 - 192.168.1.10
-  - Available: 192.168.1.11 - 192.168.1.255
+<h2>VLANs</h2>
+
+| Interface | Type                | IP Addressing  | Description               |
+| --------- | ------------------- | -------------- | ------------------------- |
+| WAN       | Virtual NIC         | DHCP           | Internet-facing interface |
+| LAN       | Virtual NIC (Trunk) | 192.168.1.1/24 | Internal VLAN trunk       |
+
+<h2>DHCP</h2>
+
+| VLAN   | DHCP Range        | Assignment Type  |
+| ------ | ----------------- | ---------------- |
+| LAN    | 192.168.1.1 - 255  | Static          |
+| USER   | 192.168.10.1 – 255 | DHCP            |
+| ATTACK | 192.168.20.1 - 255 | DHCP           |
+| DMZ    | 192.168.30.1 - 255 | Static          |
+
+<h2>Virtual Switching</h2>
+
+| Component         | Configuration                 |
+| ----------------- | ----------------------------- |
+| Virtual Switch    | Single trunked virtual switch |
+| VLAN Tagging      | Handled by pfSense            |
+| VM NIC Assignment | VLAN ID set per VM            |
+
+
+
+
 
