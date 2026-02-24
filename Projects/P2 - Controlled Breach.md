@@ -30,7 +30,7 @@ Users in VLAN20 are able to run an nmap scan on VLAN10 (port 445) which should N
 
 <h3>Scenario 2 (Proper configuration)</h3>
 
-The firewall blocks VLAN20 from running an nmpa scan on VLAN10 (port 445).
+The firewall blocks VLAN20 from running an nmap scan on VLAN10 (port 445).
 
 <p align="left">
 <img src="https://i.imgur.com/k0rDXKE.png" height="50%" width=50%"/>
