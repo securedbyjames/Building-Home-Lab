@@ -11,6 +11,9 @@
 
 - Scan with nmap
 
+<p align="left">
+<img src="https://i.imgur.com/vfFaQey.png" height="75%" width="75%"/>
+
 <h3>Defense</h3>
 
 - pfSense Firewall denies VLAN 20 access to VLAN 10
