@@ -37,7 +37,3 @@ The firewall blocks VLAN20 from running an nmpa scan on VLAN10 (port 445).
 
 <p align="left">
 <img src="https://i.imgur.com/NIaRJPb.png" height="50%" width="50%"/>
-
-<b>Proper Firewall Rule</b>
-<p align="left">
-<img src="https://i.imgur.com/Ll5d8zl.png" height="100%" width="100%"/>
