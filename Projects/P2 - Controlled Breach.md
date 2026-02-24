@@ -22,9 +22,11 @@
 
 Users in VLAN20 are able to run an nmap scan on VLAN10 (port 445) which should NOT be allowed.
 
+<b>Kali Linux</b>
 <p align="left">
 <img src="https://i.imgur.com/lJ9bKfV.png" height="50%" width=50%"/>
 
+<b>Firewall Log</b>
 <p align="left">
 <img src="https://i.imgur.com/3AKb5Sx.png" height="50%" width="50%"/>
 
@@ -32,8 +34,14 @@ Users in VLAN20 are able to run an nmap scan on VLAN10 (port 445) which should N
 
 The firewall blocks VLAN20 from running an nmap scan on VLAN10 (port 445).
 
+<b>Kali Linux</b>
 <p align="left">
 <img src="https://i.imgur.com/k0rDXKE.png" height="50%" width=50%"/>
 
+<b>Firewall Log</b>
 <p align="left">
 <img src="https://i.imgur.com/NIaRJPb.png" height="50%" width="50%"/>
+
+<b>Firewall Rule</b>
+<p align="left">
+<img src="https://i.imgur.com/WeOOF3l.png" height="50%" width="50%"/>
