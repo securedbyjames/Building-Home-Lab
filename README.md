@@ -20,7 +20,7 @@ The purpose of my home lab is to develop and strengthen both defensive and offen
 - <b>Virtualization Software</b>
   - Hyper-V Manager
   
-- <b>Virtual Machines (Macbook Pro)</b>
+- <b>Virtual Machines</b>
   - Windows Server 2025 (Datacenter Edition)
   - pfSense Firewall
   - Windows 11 
