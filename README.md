@@ -32,6 +32,7 @@ The purpose of my home lab is to develop and strengthen both defensive and offen
  
 <h2>Key Skills Demonstrated</h2>
 
+  - Activty Directory Deployment
   - Firewall rules and ACL enforcement
   - DNS & DHCP infrastructure
   - Traffic inspection and log analysis
