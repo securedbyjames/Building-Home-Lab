@@ -38,8 +38,4 @@ The purpose of my home lab is to develop and strengthen both defensive and offen
   - Traffic inspection and log analysis
   - Offensive testing with Kali Linux
   - Network segmentation & isolation
- 
-<h2>Documentation</h2>
-
-- <a href="https://github.com/securedbyjames/Building-Home-Lab/blob/main/network_architecture.md"><b>Network Architecture</b></a>
 
