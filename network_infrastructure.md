@@ -1,4 +1,4 @@
-<h1>Network Architecture</h1>
+<h1>Network Infrastructure</h1>
 
 | VLAN ID | Network Name     | Subnet          | Gateway        | Purpose                |
 | ------- | ---------------- | --------------- | -------------- | ---------------------- |
