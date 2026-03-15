@@ -1,4 +1,4 @@
-<h1>Firewall Policy for Virtual Home Lab</h1>
+<h1>Project 3: Firewall Policy for Virtual Home Lab</h1>
 
 <h2>Security Objectives</h2>
 
