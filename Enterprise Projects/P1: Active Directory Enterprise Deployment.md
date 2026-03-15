@@ -1,4 +1,4 @@
-<h1>Active Directory Enterprise Deployment</h1>
+<h1>Project 1: Active Directory Enterprise Deployment</h1>
 
 <h2>Overview</h2>
 'SPIDERMAN' serves as the domain controller, DNS, and DHCP server for this lab environment. All clients use SPIDERMAN as their primary DNS server, and destination to receive IP addresses (unless set to a static IP address).
