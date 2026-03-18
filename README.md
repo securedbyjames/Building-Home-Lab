@@ -23,6 +23,7 @@ The purpose of my home lab is to develop and strengthen both defensive and offen
 - <b>Virtual Machines</b>
   - Windows Server 2025 (Datacenter Edition)
   - pfSense Firewall
+    - Suricata IDS
   - Windows 11 
   - Kali Linux
  
